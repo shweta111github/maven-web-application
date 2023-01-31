@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>PavithraDevOps Releases Nexus Repository</name>
-	      <url>http://172.31.41.16:9980/pavithradevops/repository/citibank-release/</url>
+	      <url>http://43.204.234.213:9980/pavithradevops/repository/citibank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>PavithraDevOps Snapshot Nexus Repository </name>
-	      <url>http://172.31.41.16:9980/pavithradevops/repository/citibank-snapshot/</url>
+	      <url>http://43.204.234.213:9980/pavithradevops/repository/citibank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
