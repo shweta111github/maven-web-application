@@ -17,7 +17,7 @@ stage('ExecuteSonarQubeReport')
 {
  sh "${mavenHome}/bin/mvn sonar:sonar"
 }
-*/
+/*
 //UploadArtifacts into Nexus
 stage('UploadArtifactsIntoNexus')
 {
