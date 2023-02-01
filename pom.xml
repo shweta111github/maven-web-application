@@ -98,7 +98,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>PavithraDevOps Releases Nexus Repository</name>
-	      <url>http://http://65.2.161.4:9980/pavithradevops/repository/citibank-release/</url>
+	      <url>http://65.2.161.4:9980/pavithradevops/repository/citibank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
