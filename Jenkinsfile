@@ -3,6 +3,7 @@ def mavenHome = tool name: 'maven3.8.5'
 echo "the job name is: ${env.JOB_NAME}"
 echo "the build number is: ${env.BUILD_NUMBER}"
 echo "the node name is: ${env.NODE_NAME}"
+  properties([buildDiscarder(logRotator(artifactDaysToKeepStr: '', artifactNumToKeepStr: '5', daysToKeepStr: '', numToKeepStr: '5')), [$class: 'JobLocalConfiguration', changeReasonComment: ''], pipelineTriggers([pollSCM('* * * * *')])])
 //CheckoutCode from git
 stage('CheckoutCode'){
 git branch: 'development', credentialsId: '3618ffee-d89b-42a7-95c6-644de0cd31b4', url: 'https://github.com/citibank-DevOps/maven-web-application.git'
