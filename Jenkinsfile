@@ -8,6 +8,7 @@ try
 {
   //CheckoutCode from git
 stage('CheckoutCode'){
+  sendSlackNotification("STARTED")
 git branch: 'development', credentialsId: '3618ffee-d89b-42a7-95c6-644de0cd31b4', url: 'https://github.com/citibank-DevOps/maven-web-application.git'
 }
 //Build
@@ -55,8 +56,8 @@ def sendSlackNotification(String buildStatus = 'STARTED') {
 
   // Override default values based on build status
   if (buildStatus == 'STARTED') {
-    color = 'YELLOW'
-    colorCode = '#FFFF00'
+    color = 'BLUE'
+    colorCode = '#0000FF'
   } else if (buildStatus == 'SUCCESSFUL') {
     color = 'GREEN'
     colorCode = '#00FF00'
