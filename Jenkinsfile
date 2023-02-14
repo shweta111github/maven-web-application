@@ -9,7 +9,7 @@ try
 {
   //CheckoutCode from git
 stage('CheckoutCode'){
-  //sendSlackNotification("STARTED")
+  sendSlackNotification("STARTED")
 git branch: 'development', credentialsId: '3618ffee-d89b-42a7-95c6-644de0cd31b4', url: 'https://github.com/citibank-DevOps/maven-web-application.git'
 }
 //Build
@@ -46,7 +46,7 @@ finally
 sendSlackNotification(currentBuild.result)
 }
 }//node closing
-/*
+
 def sendSlackNotification(String buildStatus = 'STARTED') {
   // build status of null means successful
   buildStatus =  buildStatus ?: 'SUCCESSFUL'
@@ -70,5 +70,5 @@ def sendSlackNotification(String buildStatus = 'STARTED') {
   }
 
   // Send notifications
-  slackSend (color: colorCode, message: summary)/*
+  slackSend (color: colorCode, message: summary)
 }
