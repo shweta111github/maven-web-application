@@ -35,7 +35,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	</span>
 	<span style="font-weight: bold;">
 		Techpragna Technologies, 
-		Jayanagara, Above ICICI Bank, Beside Meghana Foods,
+		Jayanagara,Beside Meghana Foods,
 		Bangalore,
 		+91-9980923226
 		devopstrainingblr@gmail.com
