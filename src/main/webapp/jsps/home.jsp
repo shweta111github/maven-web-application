@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Thanks to Mithun Software Solutions for your Git repositories. Bengaluru,Karnataka </h1>
-<h1 align="center"> Techpragna Solutions-  Training center for DevOps with AWS in Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Thanks to Mithun Solutions for your Git repositories. Bengaluru,Karnataka </h1>
+<h1 align="center"> Techpragna Solutions-  Training center for DevOps with AWS in Jayanagara Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
