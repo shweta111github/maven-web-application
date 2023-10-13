@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies - Poll SCM Build Trigger Demo Session .....</h1>
-<h1 align="center"> Welcome to Mithun Technologies.......We have a DevOps Master Program demo on November 1st week at 10.00 PM IST for new batch. , This is a weekdays batch - 10.30  PM to 12  PM IST . MSS- Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases... Some fake guys are giving the fake reviews dont believe those guys..I am requesting everyone. Please give your reviews in FB and Google.</h1>
+<h1 align="center">Welcome to Mithun Technology - Poll SCM Build Trigger Demo Session .....</h1>
+<h1 align="center"> Welcome to Mithun Technology.......We have a DevOps Master Program demo on November 1st week at 10.00 PM IST for new batch. , This is a weekdays batch - 10.30  PM to 12  PM IST . MSS- Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases... Some fake guys are giving the fake reviews dont believe those guys..I am requesting everyone. Please give your reviews in FB and Google.</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
@@ -18,7 +18,7 @@
 	</span>
 	<span style="font-weight: bold;">
 		Techpragna Technologies, 
-		Marathalli,
+		Jayanagara,
 		Bangalore,
 		+91-9980923229,
 		devopstrainingbr@gmail.com
