@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Thanks to Mithun Solutions for your Git Repositories. Bengaluru,Karnataka </h1>
+<h1 align="center">Thanks to Mithun Technologies for your Git Repositories. Bengaluru,Karnataka </h1>
 <h1 align="center"> Mithun Solutions- Training center for DevOps with AWS in Jayanagara Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
